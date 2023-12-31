@@ -1,10 +1,11 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client(); 
-const TOKEN = 'MzI3NTc2NTE3MzcyODA1MTIw.DC3j_Q.ee4YUcacCfbEJFZBStKyJT3kV1E'
+const TOKEN = 'your token here'
 const PREFIX = '~';
 const YTDL = require('ytdl-core');
 
 //kinda disorganized
+//and old
 
 var servers = {};
 
